@@ -1,5 +1,5 @@
 # krau/NoTeenStudy-bot
-主要功能代码来自 [Samueli924/TeenStudy](https://github.com/Samueli924/TeenStudy)
+提交学习记录功能代码来自 [Samueli924/TeenStudy](https://github.com/Samueli924/TeenStudy)
 
 ## 功能
 - 青春湖北秒学习
