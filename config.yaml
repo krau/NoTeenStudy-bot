@@ -1,8 +1,11 @@
 # openid 配置
-openid: 'xxxxxxxxxxxxxxxxxxxxxxxx'
+openid: ''
 
 #bot配置
-bottoken: 'xxxxxxxxxxxxxxxxxxxxxxx'
+token: ''
+
+#tgchatid配置
+chatid:
 
 #代理配置(如不需代理请留空)
 proxy: ''
